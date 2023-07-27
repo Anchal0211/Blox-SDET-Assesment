@@ -1,6 +1,6 @@
 # Blox-SDET-Assesment
 
-## Bank.py  has the solution of the below question 
+## bank.py  has the solution of the below question 
 
 Banking works by transferring money from account A to account B. Most of the time
 account A is in one bank while account B is another bank.
